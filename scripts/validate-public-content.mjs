@@ -124,7 +124,7 @@ async function scanDirectory(dir) {
 }
 
 // Point d'entrée
-const contentDir = process.argv[2] || './content';
+const contentDir = './';
 console.log(`🔍 Vérification du contenu dans : ${contentDir}`);
 
 scanDirectory(contentDir).then(valid => {
