@@ -3,7 +3,7 @@ title: Maxime Dubois
 name: Maxime Dubois
 alias: Maxime
 status: prison
-job: Aucun
+job: Aucune
 birthdate: 8/06/2000
 gender: Homme
 image: https://assets.thunder-rp.fr/thunder-story/personnages/maxime_dubois.webp
